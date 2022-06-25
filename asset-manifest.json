@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/crypto-watcher/static/css/main.ae8a68f8.css",
-    "main.js": "/crypto-watcher/static/js/main.3a5f9ccb.js",
+    "main.js": "/crypto-watcher/static/js/main.6af5569d.js",
+    "static/media/patternpad.png": "/crypto-watcher/static/media/patternpad.563e695de281f9a8652a.png",
     "index.html": "/crypto-watcher/index.html",
     "main.ae8a68f8.css.map": "/crypto-watcher/static/css/main.ae8a68f8.css.map",
-    "main.3a5f9ccb.js.map": "/crypto-watcher/static/js/main.3a5f9ccb.js.map"
+    "main.6af5569d.js.map": "/crypto-watcher/static/js/main.6af5569d.js.map"
   },
   "entrypoints": [
     "static/css/main.ae8a68f8.css",
-    "static/js/main.3a5f9ccb.js"
+    "static/js/main.6af5569d.js"
   ]
 }
